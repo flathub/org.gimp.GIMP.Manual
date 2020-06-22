@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="addon">
   <id>org.gimp.GIMP.Manual</id>
-  <extends>org.gimp.GIMP.desktop</extends>
+  <extends>org.gimp.GIMP</extends>
   <name>GIMP User Manual</name>
   <summary>GIMP User Manual</summary>
   <url type="homepage">https://gimp.org/</url>
